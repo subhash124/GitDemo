@@ -8,6 +8,7 @@ public class zeroTest {
 	
 	{
 		System.out.println("hiii this subhash");
+		System.out.println("hiii hogale");
 	}
 	@Test
 	public void loginPage() {
